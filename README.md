@@ -47,10 +47,9 @@ My technical expertise includes AWS, Jenkins, GitHub Actions, Docker, Kubernetes
 | Project                                                                                          | Description                                                          | Technologies                         |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ------------------------------------ |
 | **[Roboshop Terraform EKS](https://github.com/hemanchandra-devops/roboshop-terraform-eks)**            | Production-style AWS infrastructure using reusable Terraform modules | Terraform • AWS • Amazon EKS         |
-| **[GitOps using ArgoCD](https://github.com/surendevops75/eks-argocd)**                           | Automated Kubernetes deployments using GitOps                        | Kubernetes • ArgoCD                  |
-| **[Roboshop Helm](https://github.com/surendevops75/roboshop-helm)**                              | Helm charts for Kubernetes application deployment                    | Helm • Kubernetes                    |
 | **[Jenkins Shared Library](https://github.com/hemanchandra-devops/jenkins-shared-library)**            | Reusable Jenkins pipeline library for enterprise CI/CD               | Jenkins • Groovy                     |
 | **[GitHub Actions Workflows](https://github.com/hemanchandra-devops/workflows)**            | Reusable Jenkins pipeline library for enterprise CI/CD               | Jenkins • Groovy                     |
+| **[Roboshop Helm](https://github.com/surendevops75/roboshop-helm)**                              | Helm charts for Kubernetes application deployment                    | Helm • Kubernetes                    |
 ---
 
 # 🏗️ Production Highlights
