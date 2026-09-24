@@ -136,13 +136,12 @@ I enjoy building reliable, scalable, and secure platforms using Infrastructure a
 <p>
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge">
-<img src="https://img.shields.io/badge/Veracode-0096D6?style=for-the-badge">
 </p>
 
 ### 💻 Languages & Scripting
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git" />
+<img src="https://skillicons.dev/icons?i=bash,linux,git" />
 </p>
 
 ---
