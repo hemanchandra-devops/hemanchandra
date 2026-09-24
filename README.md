@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./github banner1.png" alt="GitHub Banner" width="90%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Surendra Nallabothula</h1>
+<h1 align="center">Hi 👋, I'm  Heman Chandra Mamidala</h1>
 
 <h3 align="center">
 DevOps Engineer | AWS | Kubernetes | Terraform | GitOps | DevSecOps
@@ -13,13 +9,13 @@ Building scalable cloud infrastructure, automating software delivery, and implem
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/surendra-devops" target="_blank">
+  <a href="https://www.linkedin.com/in/heman-chandra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:surendran.devops@gmail.com">
+  <a href="mailto:hemanchandra701@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/surendevops75">
+  <a href="https://github.com/hemanchandra-devops">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -28,18 +24,18 @@ Building scalable cloud infrastructure, automating software delivery, and implem
 
 # 🚀 About Me
 
-I'm a **DevOps Engineer with 4+ years of experience** designing, automating, and managing cloud-native infrastructure.
+I’m a DevOps Engineer with hands-on experience designing and implementing CI/CD pipelines, automating AWS infrastructure using Terraform, and deploying containerized applications on Kubernetes.
 
-I enjoy building reliable, scalable, and secure platforms using Infrastructure as Code, Kubernetes, GitOps, and CI/CD automation.
+My technical expertise includes AWS, Jenkins, GitHub Actions, Docker, Kubernetes, Amazon EKS, Terraform, Ansible, monitoring, and DevSecOps practices. I’m particularly interested in cloud infrastructure automation, CI/CD, Kubernetes, Infrastructure as Code, and building scalable and reliable cloud environments.
 
 ### I specialize in
 
 * ☁️ AWS Cloud Infrastructure
 * ☸️ Kubernetes & Amazon EKS
 * ⚙️ Terraform Infrastructure as Code
-* 🚀 GitHub Actions, Jenkins & GitLab CI/CD
+* 🚀 GitHub Actions, Jenkins CI/CD
 * 🔄 GitOps using ArgoCD
-* 🔐 DevSecOps (SonarQube, Trivy & Veracode)
+* 🔐 DevSecOps (SonarQube, Trivy & Dependabot Alerts)
 * 📊 Prometheus, Grafana & ELK
 * 🐳 Docker & Helm
 * 🤖 Ansible, Bash & Python Automation
