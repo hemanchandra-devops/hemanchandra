@@ -100,7 +100,7 @@ I enjoy building reliable, scalable, and secure platforms using Infrastructure a
 ### ☁️ Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
+<img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ### ☸️ Containers & Orchestration
