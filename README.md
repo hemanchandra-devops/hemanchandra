@@ -119,7 +119,7 @@ I enjoy building reliable, scalable, and secure platforms using Infrastructure a
 ### 🚀 CI/CD & GitOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins" />
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge">
 </p>
 
