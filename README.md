@@ -74,27 +74,6 @@ I enjoy building reliable, scalable, and secure platforms using Infrastructure a
 
 ---
 
-# 💼 Experience
-
-## DevOps Engineer
-
-**Microgate Technologies Pvt. Ltd.**
-
-📍 Hyderabad, India
-
-🗓️ Jan 2022 – Present
-
-### Key Achievements
-
-* 🚀 Reduced deployment time by **60%**
-* 📈 Improved production uptime to **99.9%**
-* 💰 Optimized AWS infrastructure cost by **25%**
-* ☸️ Managed Kubernetes clusters and production deployments
-* ⚙️ Developed reusable Infrastructure as Code modules
-* 🔄 Automated software delivery pipelines
-
----
-
 # 🛠️ Technology Stack
 
 ### ☁️ Cloud
