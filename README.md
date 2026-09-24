@@ -147,14 +147,6 @@ I enjoy building reliable, scalable, and secure platforms using Infrastructure a
 
 ---
 
-# 📈 GitHub Statistics
-
-
-![](https://github-readme-stats.shion.dev/api?username=surendevops75&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=surendevops75&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=surendevops75&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 # 🤝 Connect With Me
 
@@ -162,22 +154,16 @@ I enjoy building reliable, scalable, and secure platforms using Infrastructure a
 
 💼 LinkedIn
 
-https://linkedin.com/in/surendra-devops
+https://www.linkedin.com/in/heman-chandra
 
 📧 Email
 
-[surendran.devops@gmail.com](mailto:surendran.devops@gmail.com)
+[hemanchandra701@gmail.com](mailto:hemanchandra701@gmail.com)
 
 💻 GitHub
 
-https://github.com/surendevops75
+https://github.com/hemanchandra-devops
 
 </p>
 
 ---
-
-## ⭐ If you like my work
-
-If you find any of my projects useful, feel free to ⭐ star the repository.
-
-Thanks for visiting my profile! 🚀
